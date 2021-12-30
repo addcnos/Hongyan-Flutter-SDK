@@ -1,0 +1,7 @@
+/.DS_Store
+/.flutter-plugins
+/.flutter-plugins-dependencies
+/.packages
+/pubspec.lock
+/build/
+*.flutter-plugins-dependencies
