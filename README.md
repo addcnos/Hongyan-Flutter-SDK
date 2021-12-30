@@ -370,8 +370,7 @@ dependencies:
 
 ## 相关文档
 
-### [1.数睿鴻雁服务端接口文档 ](http://im.591.com.hk/apidoc/#api-Apps-_apps_create)
-### [2.数睿鸿雁SDK-flutter文档](https://code.addcn.com/addcn-open/hongyan/flutter_im)
-### [3.数睿鸿雁SDK-Android文档](https://code.addcn.com/addcn-open/hongyan/addcnIM)
-### [4.数睿鸿雁SDK-Objective-C文档](https://code.addcn.com/addcn-open/hongyan/SRIMProject)
-### [5.数睿鸿雁SDK-Web文档](https://code.addcn.com/addcn-open/hongyan/im_web)
+#### [1.数睿鸿雁SDK-flutter文档](https://github.com/addcnos/Hongyan-Flutter-SDK)
+#### [2.数睿鸿雁SDK-Android文档](https://github.com/addcnos/Hongyan-Android-SDK)
+#### [3.数睿鸿雁SDK-Objective-C文档](https://github.com/addcnos/Hongyan-IOS-SDK)
+#### [4.数睿鸿雁SDK-Web文档](https://github.com/addcnos/Hongyan-Web-SDK)
