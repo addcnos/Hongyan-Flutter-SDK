@@ -1,14 +1,17 @@
-# 数睿鸿雁SDK flutter文档
+![LICENSE](https://img.shields.io/badge/license-MIT-green)
+![Language](https://img.shields.io/badge/Language-flutter-blue.svg)
 
-## SDK概述
+## 数睿鸿雁SDK flutter文档
+
+#### SDK概述
 
 鸿雁即时通讯是数睿科技公司旗下的一款专注于为开发者提供实时聊天技术和服务的产品。我们的团队来自数睿科技，致力于为用户提供高效稳定的实时聊天云服务，且弹性可扩展，对外提供较为简洁的API接口，让您轻松实现快速集成即时通讯功能。
 
-## 环境依赖
+#### 环境依赖
 
 sdk: ">=2.7.0 <3.0.0"
 
-### 集成流程
+## 集成流程
 ```dart
 dependencies:
   flutter:
@@ -20,7 +23,7 @@ dependencies:
       url: https://code.addcn.com/flutter/flutter_im.git
 ```
 
-### 初始化SDK
+#### 初始化SDK
 
 | 参数 | 类型 | 说明 | 
 | :-----| :---- | :---- |
@@ -86,7 +89,7 @@ dependencies:
 
 ## 接口说明
 
-- 发送消息
+#### 发送消息
 
 | 参数 | 类型 | 说明 | 
 | :-----| :---- | :---- |
@@ -130,7 +133,7 @@ dependencies:
   }
 ```
 
-- 发送图片
+#### 发送图片
 
 | 参数 | 类型 | 说明 | 
 | :-----| :---- | :---- |
@@ -189,7 +192,7 @@ dependencies:
   }
 ```
 
-- 发送自定义消息
+#### 发送自定义消息
 
 | 参数 | 类型 | 说明 | 
 | :-----| :---- | :---- |
@@ -236,9 +239,7 @@ dependencies:
 
 ```
 
-- 其他接口说明
-
-删除会话数据
+#### 删除会话数据
 
 | 参数 | 类型 | 说明 | 
 | :-----| :---- | :---- |
@@ -279,7 +280,7 @@ dependencies:
   }
 ```
 
-- 消息设置已读
+#### 消息设置已读
 
 | 参数 | 类型 | 说明 | 
 | :-----| :---- | :---- |
@@ -318,7 +319,7 @@ dependencies:
   }
 ```
 
-- 聊天界面联系人列表
+#### 聊天界面联系人列表
 
 | 参数 | 类型 | 说明 | 
 | :-----| :---- | :---- |
@@ -365,12 +366,12 @@ dependencies:
 
 ## 版本更新说明
 
-- v1.0.0
+#### v1.0.0
 支持IM-SDK基础功能
 
 ## 相关文档
 
-#### [1.数睿鸿雁SDK-flutter文档](https://github.com/addcnos/Hongyan-Flutter-SDK)
-#### [2.数睿鸿雁SDK-Android文档](https://github.com/addcnos/Hongyan-Android-SDK)
-#### [3.数睿鸿雁SDK-Objective-C文档](https://github.com/addcnos/Hongyan-IOS-SDK)
-#### [4.数睿鸿雁SDK-Web文档](https://github.com/addcnos/Hongyan-Web-SDK)
+#### [数睿鸿雁SDK-flutter文档](https://github.com/addcnos/Hongyan-Flutter-SDK)
+#### [数睿鸿雁SDK-Android文档](https://github.com/addcnos/Hongyan-Android-SDK)
+#### [数睿鸿雁SDK-Objective-C文档](https://github.com/addcnos/Hongyan-IOS-SDK)
+#### [数睿鸿雁SDK-Web文档](https://github.com/addcnos/Hongyan-Web-SDK)
