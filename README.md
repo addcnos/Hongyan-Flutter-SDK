@@ -1,6 +1,7 @@
-## 数睿鸿雁SDK flutter文档
-![LICENSE](https://img.shields.io/badge/license-MIT-green)
+## 数睿鸿雁SDK Flutter文档
+![LICENSE](https://img.shields.io/badge/License-MIT-orange)
 ![Language](https://img.shields.io/badge/Language-Dart-blue.svg)
+![Stable](https://img.shields.io/badge/Stable-v1.0.0-brightgreen.svg)
 
 #### SDK概述
 
@@ -8,7 +9,9 @@
 
 #### 环境依赖
 
+```
 sdk: ">=2.7.0 <3.0.0"
+```
 
 ## 集成流程
 ```dart
