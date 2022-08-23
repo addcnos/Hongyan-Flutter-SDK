@@ -1,5 +1,5 @@
 ![LICENSE](https://img.shields.io/badge/license-MIT-green)
-![Language](https://img.shields.io/badge/Language-flutter-blue.svg)
+![Language](https://img.shields.io/badge/Language-Dart-blue.svg)
 
 ## 数睿鸿雁SDK flutter文档
 
