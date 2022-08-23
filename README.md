@@ -1,7 +1,6 @@
+## 数睿鸿雁SDK flutter文档
 ![LICENSE](https://img.shields.io/badge/license-MIT-green)
 ![Language](https://img.shields.io/badge/Language-Dart-blue.svg)
-
-## 数睿鸿雁SDK flutter文档
 
 #### SDK概述
 
